@@ -1,0 +1,6 @@
+f:\3 курс\2 сем\ЗИНИС\Lab7\Rukzak\Lab2Rukzak\bin\Debug\Lab2Rukzak.exe.config
+f:\3 курс\2 сем\ЗИНИС\Lab7\Rukzak\Lab2Rukzak\bin\Debug\Lab2Rukzak.exe
+f:\3 курс\2 сем\ЗИНИС\Lab7\Rukzak\Lab2Rukzak\bin\Debug\Lab2Rukzak.pdb
+f:\3 курс\2 сем\ЗИНИС\Lab7\Rukzak\Lab2Rukzak\obj\Debug\LabRukzak.csprojAssemblyReference.cache
+f:\3 курс\2 сем\ЗИНИС\Lab7\Rukzak\Lab2Rukzak\obj\Debug\Lab2Rukzak.exe
+f:\3 курс\2 сем\ЗИНИС\Lab7\Rukzak\Lab2Rukzak\obj\Debug\Lab2Rukzak.pdb

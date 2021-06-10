@@ -1,0 +1,18 @@
+D:\Учеба\ЗИНИС\2 сем\Lab3\Lab3\Lab3\bin\Debug\Lab3.exe.config
+D:\Учеба\ЗИНИС\2 сем\Lab3\Lab3\Lab3\bin\Debug\Lab3.exe
+D:\Учеба\ЗИНИС\2 сем\Lab3\Lab3\Lab3\bin\Debug\Lab3.pdb
+D:\Учеба\ЗИНИС\2 сем\Lab3\Lab3\Lab3\obj\Debug\Lab3.csprojAssemblyReference.cache
+D:\Учеба\ЗИНИС\2 сем\Lab3\Lab3\Lab3\obj\Debug\Lab3.Form1.resources
+D:\Учеба\ЗИНИС\2 сем\Lab3\Lab3\Lab3\obj\Debug\Lab3.Properties.Resources.resources
+D:\Учеба\ЗИНИС\2 сем\Lab3\Lab3\Lab3\obj\Debug\Lab3.csproj.GenerateResource.cache
+D:\Учеба\ЗИНИС\2 сем\Lab3\Lab3\Lab3\obj\Debug\Lab3.exe
+D:\Учеба\ЗИНИС\2 сем\Lab3\Lab3\Lab3\obj\Debug\Lab3.pdb
+f:\3 курс\2 сем\ЗИНИС\Lab3\Lab3\Lab3\bin\Debug\Lab3.exe.config
+f:\3 курс\2 сем\ЗИНИС\Lab3\Lab3\Lab3\bin\Debug\Lab3.exe
+f:\3 курс\2 сем\ЗИНИС\Lab3\Lab3\Lab3\bin\Debug\Lab3.pdb
+f:\3 курс\2 сем\ЗИНИС\Lab3\Lab3\Lab3\obj\Debug\Lab3.csprojAssemblyReference.cache
+f:\3 курс\2 сем\ЗИНИС\Lab3\Lab3\Lab3\obj\Debug\Lab3.Form1.resources
+f:\3 курс\2 сем\ЗИНИС\Lab3\Lab3\Lab3\obj\Debug\Lab3.Properties.Resources.resources
+f:\3 курс\2 сем\ЗИНИС\Lab3\Lab3\Lab3\obj\Debug\Lab3.csproj.GenerateResource.cache
+f:\3 курс\2 сем\ЗИНИС\Lab3\Lab3\Lab3\obj\Debug\Lab3.exe
+f:\3 курс\2 сем\ЗИНИС\Lab3\Lab3\Lab3\obj\Debug\Lab3.pdb

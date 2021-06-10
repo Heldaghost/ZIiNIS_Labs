@@ -1,0 +1,10 @@
+F:\3 курс\2 сем\ЗИНИС\ZI13\bin\Debug\ZI13.exe.config
+F:\3 курс\2 сем\ЗИНИС\ZI13\bin\Debug\ZI13.exe
+F:\3 курс\2 сем\ЗИНИС\ZI13\bin\Debug\ZI13.pdb
+F:\3 курс\2 сем\ЗИНИС\ZI13\bin\Debug\Aspose.Words.dll
+F:\3 курс\2 сем\ЗИНИС\ZI13\bin\Debug\Aspose.Words.Pdf2Word.dll
+F:\3 курс\2 сем\ЗИНИС\ZI13\bin\Debug\Aspose.Words.xml
+F:\3 курс\2 сем\ЗИНИС\ZI13\obj\Debug\ZI13.csprojAssemblyReference.cache
+F:\3 курс\2 сем\ЗИНИС\ZI13\obj\Debug\ZI13.csproj.CopyComplete
+F:\3 курс\2 сем\ЗИНИС\ZI13\obj\Debug\ZI13.exe
+F:\3 курс\2 сем\ЗИНИС\ZI13\obj\Debug\ZI13.pdb

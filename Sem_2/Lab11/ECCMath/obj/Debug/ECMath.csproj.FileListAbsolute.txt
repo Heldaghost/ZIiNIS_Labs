@@ -1,0 +1,12 @@
+F:\3 курс\2 сем\ЗИНИС\ECMath\bin\Debug\ECMath.exe.config
+F:\3 курс\2 сем\ЗИНИС\ECMath\bin\Debug\ECMath.exe
+F:\3 курс\2 сем\ЗИНИС\ECMath\bin\Debug\ECMath.pdb
+F:\3 курс\2 сем\ЗИНИС\ECMath\bin\Debug\EPPlus.Core.dll
+F:\3 курс\2 сем\ЗИНИС\ECMath\bin\Debug\EPPlus.Core.xml
+F:\3 курс\2 сем\ЗИНИС\ECMath\obj\Debug\ECMath.csprojAssemblyReference.cache
+F:\3 курс\2 сем\ЗИНИС\ECMath\obj\Debug\ECMath.Form1.resources
+F:\3 курс\2 сем\ЗИНИС\ECMath\obj\Debug\ECMath.Properties.Resources.resources
+F:\3 курс\2 сем\ЗИНИС\ECMath\obj\Debug\ECMath.csproj.GenerateResource.cache
+F:\3 курс\2 сем\ЗИНИС\ECMath\obj\Debug\ECMath.csproj.CopyComplete
+F:\3 курс\2 сем\ЗИНИС\ECMath\obj\Debug\ECMath.exe
+F:\3 курс\2 сем\ЗИНИС\ECMath\obj\Debug\ECMath.pdb

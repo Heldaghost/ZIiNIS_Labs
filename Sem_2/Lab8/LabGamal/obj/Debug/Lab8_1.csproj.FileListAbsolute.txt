@@ -1,0 +1,6 @@
+F:\3 курс\2 сем\ЗИНИС\Lab8_1\bin\Debug\Lab8_1.exe.config
+F:\3 курс\2 сем\ЗИНИС\Lab8_1\bin\Debug\Lab8_1.exe
+F:\3 курс\2 сем\ЗИНИС\Lab8_1\bin\Debug\Lab8_1.pdb
+F:\3 курс\2 сем\ЗИНИС\Lab8_1\obj\Debug\Lab8_1.csprojAssemblyReference.cache
+F:\3 курс\2 сем\ЗИНИС\Lab8_1\obj\Debug\Lab8_1.exe
+F:\3 курс\2 сем\ЗИНИС\Lab8_1\obj\Debug\Lab8_1.pdb

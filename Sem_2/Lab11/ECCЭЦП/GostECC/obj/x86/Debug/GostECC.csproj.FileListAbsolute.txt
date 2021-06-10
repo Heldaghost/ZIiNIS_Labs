@@ -1,0 +1,26 @@
+D:\защита Урбанович\2 sem\3lab\ECCGost-master\GostECC\bin\Debug\GostECC.exe
+D:\защита Урбанович\2 sem\3lab\ECCGost-master\GostECC\bin\Debug\GostECC.pdb
+D:\защита Урбанович\2 sem\3lab\ECCGost-master\GostECC\obj\x86\Debug\GostECC.csprojAssemblyReference.cache
+D:\защита Урбанович\2 sem\3lab\ECCGost-master\GostECC\obj\x86\Debug\GostECC.Form1.resources
+D:\защита Урбанович\2 sem\3lab\ECCGost-master\GostECC\obj\x86\Debug\GostECC.Properties.Resources.resources
+D:\защита Урбанович\2 sem\3lab\ECCGost-master\GostECC\obj\x86\Debug\GostECC.csproj.GenerateResource.cache
+D:\защита Урбанович\2 sem\3lab\ECCGost-master\GostECC\obj\x86\Debug\GostECC.csproj.CoreCompileInputs.cache
+D:\защита Урбанович\2 sem\3lab\ECCGost-master\GostECC\obj\x86\Debug\GostECC.exe
+D:\защита Урбанович\2 sem\3lab\ECCGost-master\GostECC\obj\x86\Debug\GostECC.pdb
+D:\Документы\BSTU\ЗИ - Защита информации\Лабораторные\L3\ECCGost-master\GostECC\bin\Debug\GostECC.exe
+D:\Документы\BSTU\ЗИ - Защита информации\Лабораторные\L3\ECCGost-master\GostECC\bin\Debug\GostECC.pdb
+D:\Документы\BSTU\ЗИ - Защита информации\Лабораторные\L3\ECCGost-master\GostECC\obj\x86\Debug\GostECC.csprojAssemblyReference.cache
+D:\Документы\BSTU\ЗИ - Защита информации\Лабораторные\L3\ECCGost-master\GostECC\obj\x86\Debug\GostECC.Form1.resources
+D:\Документы\BSTU\ЗИ - Защита информации\Лабораторные\L3\ECCGost-master\GostECC\obj\x86\Debug\GostECC.Properties.Resources.resources
+D:\Документы\BSTU\ЗИ - Защита информации\Лабораторные\L3\ECCGost-master\GostECC\obj\x86\Debug\GostECC.csproj.GenerateResource.cache
+D:\Документы\BSTU\ЗИ - Защита информации\Лабораторные\L3\ECCGost-master\GostECC\obj\x86\Debug\GostECC.csproj.CoreCompileInputs.cache
+D:\Документы\BSTU\ЗИ - Защита информации\Лабораторные\L3\ECCGost-master\GostECC\obj\x86\Debug\GostECC.exe
+D:\Документы\BSTU\ЗИ - Защита информации\Лабораторные\L3\ECCGost-master\GostECC\obj\x86\Debug\GostECC.pdb
+f:\3 курс\2 сем\ЗИНИС\Лабораторные\L3\ECCGost-master\GostECC\bin\Debug\GostECC.exe
+f:\3 курс\2 сем\ЗИНИС\Лабораторные\L3\ECCGost-master\GostECC\bin\Debug\GostECC.pdb
+f:\3 курс\2 сем\ЗИНИС\Лабораторные\L3\ECCGost-master\GostECC\obj\x86\Debug\GostECC.csprojAssemblyReference.cache
+f:\3 курс\2 сем\ЗИНИС\Лабораторные\L3\ECCGost-master\GostECC\obj\x86\Debug\GostECC.Form1.resources
+f:\3 курс\2 сем\ЗИНИС\Лабораторные\L3\ECCGost-master\GostECC\obj\x86\Debug\GostECC.Properties.Resources.resources
+f:\3 курс\2 сем\ЗИНИС\Лабораторные\L3\ECCGost-master\GostECC\obj\x86\Debug\GostECC.csproj.GenerateResource.cache
+f:\3 курс\2 сем\ЗИНИС\Лабораторные\L3\ECCGost-master\GostECC\obj\x86\Debug\GostECC.exe
+f:\3 курс\2 сем\ЗИНИС\Лабораторные\L3\ECCGost-master\GostECC\obj\x86\Debug\GostECC.pdb

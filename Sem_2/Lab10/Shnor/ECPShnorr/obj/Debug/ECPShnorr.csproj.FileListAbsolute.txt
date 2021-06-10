@@ -1,0 +1,90 @@
+c:\users\саня\source\repos\ECPShnorr\ECPShnorr\obj\Debug\ECPShnorr.csprojResolveAssemblyReference.cache
+c:\users\саня\source\repos\ECPShnorr\ECPShnorr\obj\Debug\MainWindow.g.cs
+c:\users\саня\source\repos\ECPShnorr\ECPShnorr\obj\Debug\App.g.cs
+c:\users\саня\source\repos\ECPShnorr\ECPShnorr\obj\Debug\ECPShnorr_MarkupCompile.cache
+c:\users\саня\source\repos\ECPShnorr\ECPShnorr\obj\Debug\ECPShnorr_MarkupCompile.lref
+c:\users\саня\source\repos\ECPShnorr\ECPShnorr\bin\Debug\ECPShnorr.exe.config
+c:\users\саня\source\repos\ECPShnorr\ECPShnorr\bin\Debug\ECPShnorr.exe
+c:\users\саня\source\repos\ECPShnorr\ECPShnorr\bin\Debug\ECPShnorr.pdb
+c:\users\саня\source\repos\ECPShnorr\ECPShnorr\obj\Debug\MainWindow.baml
+c:\users\саня\source\repos\ECPShnorr\ECPShnorr\obj\Debug\ECPShnorr.g.resources
+c:\users\саня\source\repos\ECPShnorr\ECPShnorr\obj\Debug\ECPShnorr.Properties.Resources.resources
+c:\users\саня\source\repos\ECPShnorr\ECPShnorr\obj\Debug\ECPShnorr.csproj.GenerateResource.Cache
+c:\users\саня\source\repos\ECPShnorr\ECPShnorr\obj\Debug\ECPShnorr.csproj.CoreCompileInputs.cache
+c:\users\саня\source\repos\ECPShnorr\ECPShnorr\obj\Debug\ECPShnorr.exe
+c:\users\саня\source\repos\ECPShnorr\ECPShnorr\obj\Debug\ECPShnorr.pdb
+C:\Users\Virus\Desktop\ECPShnorr\ECPShnorr\bin\Debug\ECPShnorr.exe.config
+C:\Users\Virus\Desktop\ECPShnorr\ECPShnorr\bin\Debug\ECPShnorr.exe
+C:\Users\Virus\Desktop\ECPShnorr\ECPShnorr\bin\Debug\ECPShnorr.pdb
+C:\Users\Virus\Desktop\ECPShnorr\ECPShnorr\obj\Debug\ECPShnorr.csprojResolveAssemblyReference.cache
+C:\Users\Virus\Desktop\ECPShnorr\ECPShnorr\obj\Debug\MainWindow.g.cs
+C:\Users\Virus\Desktop\ECPShnorr\ECPShnorr\obj\Debug\App.g.cs
+C:\Users\Virus\Desktop\ECPShnorr\ECPShnorr\obj\Debug\ECPShnorr_MarkupCompile.cache
+C:\Users\Virus\Desktop\ECPShnorr\ECPShnorr\obj\Debug\ECPShnorr_MarkupCompile.lref
+C:\Users\Virus\Desktop\ECPShnorr\ECPShnorr\obj\Debug\MainWindow.baml
+C:\Users\Virus\Desktop\ECPShnorr\ECPShnorr\obj\Debug\ECPShnorr.g.resources
+C:\Users\Virus\Desktop\ECPShnorr\ECPShnorr\obj\Debug\ECPShnorr.Properties.Resources.resources
+C:\Users\Virus\Desktop\ECPShnorr\ECPShnorr\obj\Debug\ECPShnorr.csproj.GenerateResource.Cache
+C:\Users\Virus\Desktop\ECPShnorr\ECPShnorr\obj\Debug\ECPShnorr.csproj.CoreCompileInputs.cache
+C:\Users\Virus\Desktop\ECPShnorr\ECPShnorr\obj\Debug\ECPShnorr.exe
+C:\Users\Virus\Desktop\ECPShnorr\ECPShnorr\obj\Debug\ECPShnorr.pdb
+C:\Users\NOUT\Downloads\laby\лабы\ECPShnorr\ECPShnorr\bin\Debug\ECPShnorr.exe.config
+C:\Users\NOUT\Downloads\laby\лабы\ECPShnorr\ECPShnorr\obj\Debug\ECPShnorr.exe
+C:\Users\NOUT\Downloads\laby\лабы\ECPShnorr\ECPShnorr\obj\Debug\ECPShnorr.pdb
+C:\Users\NOUT\Downloads\laby\лабы\ECPShnorr\ECPShnorr\bin\Debug\ECPShnorr.exe
+C:\Users\NOUT\Downloads\laby\лабы\ECPShnorr\ECPShnorr\bin\Debug\ECPShnorr.pdb
+C:\Users\NOUT\Downloads\laby\лабы\ECPShnorr\ECPShnorr\obj\Debug\ECPShnorr.csprojResolveAssemblyReference.cache
+C:\Users\NOUT\Downloads\laby\лабы\ECPShnorr\ECPShnorr\obj\Debug\MainWindow.g.cs
+C:\Users\NOUT\Downloads\laby\лабы\ECPShnorr\ECPShnorr\obj\Debug\App.g.cs
+C:\Users\NOUT\Downloads\laby\лабы\ECPShnorr\ECPShnorr\obj\Debug\ECPShnorr_MarkupCompile.cache
+C:\Users\NOUT\Downloads\laby\лабы\ECPShnorr\ECPShnorr\obj\Debug\ECPShnorr_MarkupCompile.lref
+C:\Users\NOUT\Downloads\laby\лабы\ECPShnorr\ECPShnorr\obj\Debug\MainWindow.baml
+C:\Users\NOUT\Downloads\laby\лабы\ECPShnorr\ECPShnorr\obj\Debug\ECPShnorr.g.resources
+C:\Users\NOUT\Downloads\laby\лабы\ECPShnorr\ECPShnorr\obj\Debug\ECPShnorr.Properties.Resources.resources
+C:\Users\NOUT\Downloads\laby\лабы\ECPShnorr\ECPShnorr\obj\Debug\ECPShnorr.csproj.GenerateResource.Cache
+f:\лабы\ECPShnorr\ECPShnorr\bin\Debug\ECPShnorr.exe.config
+f:\лабы\ECPShnorr\ECPShnorr\obj\Debug\ECPShnorr.exe
+f:\лабы\ECPShnorr\ECPShnorr\obj\Debug\ECPShnorr.pdb
+D:\Документы\BSTU\ЗИ - Защита информации\Лабораторные\labs\7labECP\Шнор\ECPShnorr\bin\Debug\ECPShnorr.exe.config
+D:\Документы\BSTU\ЗИ - Защита информации\Лабораторные\labs\7labECP\Шнор\ECPShnorr\bin\Debug\ECPShnorr.exe
+D:\Документы\BSTU\ЗИ - Защита информации\Лабораторные\labs\7labECP\Шнор\ECPShnorr\bin\Debug\ECPShnorr.pdb
+D:\Документы\BSTU\ЗИ - Защита информации\Лабораторные\labs\7labECP\Шнор\ECPShnorr\obj\Debug\ECPShnorr.csprojAssemblyReference.cache
+D:\Документы\BSTU\ЗИ - Защита информации\Лабораторные\labs\7labECP\Шнор\ECPShnorr\obj\Debug\MainWindow.g.cs
+D:\Документы\BSTU\ЗИ - Защита информации\Лабораторные\labs\7labECP\Шнор\ECPShnorr\obj\Debug\App.g.cs
+D:\Документы\BSTU\ЗИ - Защита информации\Лабораторные\labs\7labECP\Шнор\ECPShnorr\obj\Debug\ECPShnorr_MarkupCompile.cache
+D:\Документы\BSTU\ЗИ - Защита информации\Лабораторные\labs\7labECP\Шнор\ECPShnorr\obj\Debug\ECPShnorr_MarkupCompile.lref
+D:\Документы\BSTU\ЗИ - Защита информации\Лабораторные\labs\7labECP\Шнор\ECPShnorr\obj\Debug\MainWindow.baml
+D:\Документы\BSTU\ЗИ - Защита информации\Лабораторные\labs\7labECP\Шнор\ECPShnorr\obj\Debug\ECPShnorr.g.resources
+D:\Документы\BSTU\ЗИ - Защита информации\Лабораторные\labs\7labECP\Шнор\ECPShnorr\obj\Debug\ECPShnorr.Properties.Resources.resources
+D:\Документы\BSTU\ЗИ - Защита информации\Лабораторные\labs\7labECP\Шнор\ECPShnorr\obj\Debug\ECPShnorr.csproj.GenerateResource.cache
+D:\Документы\BSTU\ЗИ - Защита информации\Лабораторные\labs\7labECP\Шнор\ECPShnorr\obj\Debug\ECPShnorr.csproj.CoreCompileInputs.cache
+D:\Документы\BSTU\ЗИ - Защита информации\Лабораторные\labs\7labECP\Шнор\ECPShnorr\obj\Debug\ECPShnorr.exe
+D:\Документы\BSTU\ЗИ - Защита информации\Лабораторные\labs\7labECP\Шнор\ECPShnorr\obj\Debug\ECPShnorr.pdb
+f:\3 курс\2 сем\ЗИНИС\Лабораторные\L7\Шнор\ECPShnorr\bin\Debug\ECPShnorr.exe.config
+f:\3 курс\2 сем\ЗИНИС\Лабораторные\L7\Шнор\ECPShnorr\bin\Debug\ECPShnorr.exe
+f:\3 курс\2 сем\ЗИНИС\Лабораторные\L7\Шнор\ECPShnorr\bin\Debug\ECPShnorr.pdb
+f:\3 курс\2 сем\ЗИНИС\Лабораторные\L7\Шнор\ECPShnorr\obj\Debug\ECPShnorr.csprojAssemblyReference.cache
+f:\3 курс\2 сем\ЗИНИС\Лабораторные\L7\Шнор\ECPShnorr\obj\Debug\MainWindow.g.cs
+f:\3 курс\2 сем\ЗИНИС\Лабораторные\L7\Шнор\ECPShnorr\obj\Debug\App.g.cs
+f:\3 курс\2 сем\ЗИНИС\Лабораторные\L7\Шнор\ECPShnorr\obj\Debug\ECPShnorr_MarkupCompile.cache
+f:\3 курс\2 сем\ЗИНИС\Лабораторные\L7\Шнор\ECPShnorr\obj\Debug\ECPShnorr_MarkupCompile.lref
+f:\3 курс\2 сем\ЗИНИС\Лабораторные\L7\Шнор\ECPShnorr\obj\Debug\MainWindow.baml
+f:\3 курс\2 сем\ЗИНИС\Лабораторные\L7\Шнор\ECPShnorr\obj\Debug\ECPShnorr.g.resources
+f:\3 курс\2 сем\ЗИНИС\Лабораторные\L7\Шнор\ECPShnorr\obj\Debug\ECPShnorr.Properties.Resources.resources
+f:\3 курс\2 сем\ЗИНИС\Лабораторные\L7\Шнор\ECPShnorr\obj\Debug\ECPShnorr.csproj.GenerateResource.cache
+f:\3 курс\2 сем\ЗИНИС\Лабораторные\L7\Шнор\ECPShnorr\obj\Debug\ECPShnorr.exe
+f:\3 курс\2 сем\ЗИНИС\Лабораторные\L7\Шнор\ECPShnorr\obj\Debug\ECPShnorr.pdb
+f:\3 курс\2 сем\ЗИНИС\Лабораторные\L10\Шнор\ECPShnorr\bin\Debug\ECPShnorr.exe.config
+f:\3 курс\2 сем\ЗИНИС\Лабораторные\L10\Шнор\ECPShnorr\bin\Debug\ECPShnorr.exe
+f:\3 курс\2 сем\ЗИНИС\Лабораторные\L10\Шнор\ECPShnorr\bin\Debug\ECPShnorr.pdb
+f:\3 курс\2 сем\ЗИНИС\Лабораторные\L10\Шнор\ECPShnorr\obj\Debug\ECPShnorr.csprojAssemblyReference.cache
+f:\3 курс\2 сем\ЗИНИС\Лабораторные\L10\Шнор\ECPShnorr\obj\Debug\MainWindow.g.cs
+f:\3 курс\2 сем\ЗИНИС\Лабораторные\L10\Шнор\ECPShnorr\obj\Debug\App.g.cs
+f:\3 курс\2 сем\ЗИНИС\Лабораторные\L10\Шнор\ECPShnorr\obj\Debug\ECPShnorr_MarkupCompile.cache
+f:\3 курс\2 сем\ЗИНИС\Лабораторные\L10\Шнор\ECPShnorr\obj\Debug\ECPShnorr_MarkupCompile.lref
+f:\3 курс\2 сем\ЗИНИС\Лабораторные\L10\Шнор\ECPShnorr\obj\Debug\MainWindow.baml
+f:\3 курс\2 сем\ЗИНИС\Лабораторные\L10\Шнор\ECPShnorr\obj\Debug\ECPShnorr.g.resources
+f:\3 курс\2 сем\ЗИНИС\Лабораторные\L10\Шнор\ECPShnorr\obj\Debug\ECPShnorr.Properties.Resources.resources
+f:\3 курс\2 сем\ЗИНИС\Лабораторные\L10\Шнор\ECPShnorr\obj\Debug\ECPShnorr.csproj.GenerateResource.cache
+f:\3 курс\2 сем\ЗИНИС\Лабораторные\L10\Шнор\ECPShnorr\obj\Debug\ECPShnorr.exe
+f:\3 курс\2 сем\ЗИНИС\Лабораторные\L10\Шнор\ECPShnorr\obj\Debug\ECPShnorr.pdb

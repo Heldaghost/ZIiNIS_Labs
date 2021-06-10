@@ -1,0 +1,6 @@
+F:\3 курс\2 сем\ЗИНИС\labRSA\bin\Debug\labRSA.exe.config
+F:\3 курс\2 сем\ЗИНИС\labRSA\bin\Debug\labRSA.exe
+F:\3 курс\2 сем\ЗИНИС\labRSA\bin\Debug\labRSA.pdb
+F:\3 курс\2 сем\ЗИНИС\labRSA\obj\Debug\labRSA.csprojAssemblyReference.cache
+F:\3 курс\2 сем\ЗИНИС\labRSA\obj\Debug\labRSA.exe
+F:\3 курс\2 сем\ЗИНИС\labRSA\obj\Debug\labRSA.pdb
